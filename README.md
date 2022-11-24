@@ -48,7 +48,7 @@
             alt="@mithuncdas" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Frontend Languages & Framework</h3>
+<h3 align="left">Growing With</h3>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
@@ -70,27 +70,17 @@
     <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
         <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" /> 
     </a>
-    
-</p>
-<h3 align="left">Backend Languages & Framework:</h3>
-<p align="left"> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
     </a> 
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> 
-    </a>  
-</p>
-<h3 align="left">DataBase</h3>
-<p align="left"> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    </a> 
+     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> 
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
     </a> 
-</p>
-<h3 align="left">Others:</h3>
-<p align="left"> 
     <a href="https://www.wordpress.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="figma" width="70" height="40" /> 
     </a>
@@ -104,8 +94,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
             alt="webpack" width="40" height="40" />
      </a> 
+    
 </p>
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mithuncdas"> <img align="center"
