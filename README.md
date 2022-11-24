@@ -1,33 +1,135 @@
 <h1 align="center">Hi 👋, I'm Mithun Das</h1>
 <h3 align="center">Growing with PHP, Laravel, Vue, Nuxt.</h3>
-# 💫 About Me:
-🔭 I’m currently working on E-commerce, Expense Management.<br><br>🌱 I’m currently learning PHP/Laravel Design Patterns,Large Datasets, Ensuring Code Quality.<br><br>👯 I’m looking to collaborate on Expense Managmeent<br><br>🤝 I’m looking for help with LiveChat Using WebSockets.<br><br>👨‍💻 All of my projects are available at https://mithuncdas.com<br><br>📝 I regularly write articles on https://mithuncdas.medium.com/<br><br>💬 Ask me about Laravel, Vue.<br><br>📫 How to reach me mithuncdas.cse@gmail.com<br><br>📄 Know about my experiences https://mithuncdas.com<br><br>⚡ Fun fact Programming Meme
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mithundas404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mithuncdas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mithuncdas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mithuncdas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mithuncdas) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mithuncdas&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mithuncdas&theme=vue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mithuncdas&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I’m currently working on **E-commerce, Expense Management.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mithuncdas&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+- 🌱 I’m currently learning **PHP/Laravel Design Patterns,Large Datasets, Ensuring Code Quality.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- 👯 I’m looking to collaborate on **Expense Managmeent**
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+- 🤝 I’m looking for help with **LiveChat Using WebSockets.**
 
----
-[![](https://visitcount.itsvg.in/api?id=mithuncdas&icon=2&color=3)](https://visitcount.itsvg.in)
+- 👨‍💻 All of my projects are available at [https://mithuncdas.com](https://mithuncdas.com)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mithuncdas) 
+- 📝 I regularly write articles on [https://mithuncdas.medium.com/](https://mithuncdas.medium.com/)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💬 Ask me about **Laravel, Vue.**
+
+- 📫 How to reach me **mithuncdas.cse@gmail.com**
+
+- 📄 Know about my experiences [https://mithuncdas.com](https://mithuncdas.com)
+
+- ⚡ Fun fact **Programming Meme**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/mithuncdas" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="mithuncdas" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/mithuncdas" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="mithuncdas" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/mithun-das" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="mithun-das" height="30" width="40" /></a>
+    <a href="https://fb.com/mithundas404" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="mithundas404" height="30" width="40" /></a>
+    <a href="https://instagram.com/mithuncdas" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="mithuncdas" height="30" width="40" /></a>
+    <a href="https://medium.com/@mithuncdas" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="@mithuncdas" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Frontend Languages & Framework</h3>
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="css3" width="40" height="40" /> 
+    </a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> 
+    </a> 
+    <a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="sass" width="40" height="40" /> 
+    </a> 
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> 
+    </a> 
+    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" /> 
+    </a>
+    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
+        <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" /> 
+    </a>
+    
+</p>
+<h3 align="left">Backend Languages & Framework:</h3>
+<p align="left"> 
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
+    </a> 
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> 
+    </a>  
+</p>
+<h3 align="left">DataBase</h3>
+<p align="left"> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
+    </a> 
+</p>
+<h3 align="left">Others:</h3>
+<p align="left"> 
+   
+    <a href="https://www.wordpress.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="figma" width="40" height="40" /> 
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
+    </a> 
+    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
+            alt="webpack" width="40" height="40" />
+     </a> 
+</p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mithuncdas"> <img align="left"
+            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
+            alt="mithuncdas" /></a></p><br><br>
+
+
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mithuncdas&show_icons=true&locale=en&layout=compact"
+        alt="mithuncdas" /></p>
+
+<p>&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=mithuncdas&show_icons=true&locale=en"
+        alt="mithuncdas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithuncdas&" alt="mithuncdas" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithuncdas&label=Profile%20views&color=0e75b6&style=flat"
+    alt="mithuncdas" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+        src="https://github-profile-trophy.vercel.app/?username=mithuncdas" alt="mithuncdas" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mithuncdas" target="blank"><img
+        src="https://img.shields.io/twitter/follow/mithuncdas?logo=twitter&style=for-the-badge"
+        alt="mithuncdas" /></a> </p>
