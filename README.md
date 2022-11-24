@@ -93,7 +93,7 @@
 <h3 align="left">Others:</h3>
 <p align="left"> 
     <a href="https://www.wordpress.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="figma" width="40" height="40" /> 
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="figma" width="70" height="40" /> 
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> 
