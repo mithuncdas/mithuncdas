@@ -24,8 +24,6 @@
 
 - 📄 Know about my experiences [https://mithuncdas.com](https://mithuncdas.com)
 
-- ⚡ Fun fact **Programming Meme**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/mithuncdas" target="blank"><img align="center"
