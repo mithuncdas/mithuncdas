@@ -92,7 +92,6 @@
 </p>
 <h3 align="left">Others:</h3>
 <p align="left"> 
-   
     <a href="https://www.wordpress.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="figma" width="40" height="40" /> 
     </a>
