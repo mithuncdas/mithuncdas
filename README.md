@@ -111,16 +111,3 @@
 <p><a href="https://www.buymeacoffee.com/mithuncdas"> <img align="center"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="mithuncdas" /></a></p><br>
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mithuncdas&show_icons=true&locale=en&layout=compact"
-        alt="mithuncdas" /></p>
-<p>&nbsp;<img align="left"
-        src="https://github-readme-stats.vercel.app/api?username=mithuncdas&show_icons=true&locale=en"
-        alt="mithuncdas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithuncdas&" alt="mithuncdas" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-        src="https://github-profile-trophy.vercel.app/?username=mithuncdas" alt="mithuncdas" /></a> </p>
-
