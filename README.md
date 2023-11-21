@@ -6,19 +6,19 @@
         src="https://img.shields.io/twitter/follow/mithuncdas?logo=twitter&style=for-the-badge"
         alt="mithuncdas" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce, Expense Management.**
+- 🔭 I’m currently working on **E-commerce, Management Software also developing a basic setup which is modules based.**
 
-- 🌱 I’m currently learning **PHP/Laravel Design Patterns,Large Datasets, Ensuring Code Quality.**
+- 🌱 I’m currently learning **PHP , laravel security and laravel package development.**
 
-- 👯 I’m looking to collaborate on **Expense Managmeent**
+- 👯 I’m looking to collaborate on **Basic setup(modules based)**
 
-- 🤝 I’m looking for help with **LiveChat Using WebSockets.**
+- 🤝 I’m looking for help with **Laravel Package Development.**
 
 - 👨‍💻 All of my projects are available at [https://mithuncdas.com](https://mithuncdas.com)
 
-- 📝 I regularly write articles on [https://mithuncdas.medium.com/](https://mithuncdas.medium.com/)
+- 📝 I regularly write articles on [https://mithuncdas.medium.com/](https://mithuncdas.medium.com/)[https://dev.to/mithuncdas/](https://dev.to/mithuncdas/)
 
-- 💬 Ask me about **Laravel, Vue.**
+- 💬 Ask me about **PHP ,Laravel, Vue.**
 
 - 📫 How to reach me **mithuncdas.cse@gmail.com**
 
@@ -42,6 +42,9 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="mithuncdas" height="30" width="40" /></a>
     <a href="https://medium.com/@mithuncdas" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="@mithuncdas" height="30" width="40" /></a>
+    <a href="https://dev.to/mithuncdas/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="@mithuncdas" height="30" width="40" /></a>
 </p>
