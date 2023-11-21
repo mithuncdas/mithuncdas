@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mithun Das</h1>
 <h3 align="center">Growing with PHP, Laravel, Vue and Nuxt.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithuncdas&label=Profile%20views&color=0e75b6&style=flat"
-    alt="mithuncdas" /> </p>
-    <!-- <p align="left"> <a href="https://twitter.com/mithuncdas" target="_blank"><img
-        src="https://img.shields.io/twitter/follow/mithuncdas?logo=twitter&style=for-the-badge"
-        alt="mithuncdas" /></a> </p> -->
 
 - 🔭 I’m currently working on **E-commerce, Management Software also developing a basic setup which is modules based.**
 
