@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **E-commerce, Management Software also developing a basic setup which is modules based.**
 
-- 🌱 I’m currently learning **PHP , laravel security and laravel package development.**
+- 🌱 I’m currently learning **PHP and  laravel security and laravel package development.**
 
 - 👯 I’m looking to collaborate on **Basic setup(modules based)**
 
