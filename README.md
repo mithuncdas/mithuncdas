@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mithuncdas.com](https://mithuncdas.com)
 
-- 📝 I regularly write articles on [https://mithuncdas.medium.com/](https://mithuncdas.medium.com/)[https://dev.to/mithuncdas/](https://dev.to/mithuncdas/)
+- 📝 I regularly write articles on [https://mithuncdas.medium.com/](https://mithuncdas.medium.com/) [https://dev.to/mithuncdas/](https://dev.to/mithuncdas/)
 
 - 💬 Ask me about **PHP ,Laravel, Vue.**
 
